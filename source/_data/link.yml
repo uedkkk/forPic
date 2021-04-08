@@ -1,0 +1,28 @@
+- class_name: 友情链接
+  class_desc: 
+  link_list:
+    - name: BlackCloud's Page
+      link: https://blackcloud37.tech/
+      avatar: https://raw.githubusercontent.com/BlackCloud37/BlackCloud37.github.io/master/images/favicon.ico
+      descr:
+
+    - name: ECcCCcC
+      link: http://eccent.icu/
+      avatar: https://raw.githubusercontent.com/eccente/eccente.github.io/main/images/favicon-32x32-next.png
+      descr:     
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: JavaGuide
+      link: https://snailclimb.gitee.io/javaguide/#/
+      avatar: https://raw.githubusercontent.com/Snailclimb/JavaGuide/master/media/pictures/logo.png
+      descr: 学习Java必看
+    # - name: Weibo
+    #   link: https://www.weibo.com/
+    #   avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+    #   descr: 中國最大社交分享平台
+    # - name: Twitter
+    #   link: https://twitter.com/
+    #   avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+    #   descr: 社交分享平台
